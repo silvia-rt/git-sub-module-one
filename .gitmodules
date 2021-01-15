@@ -1,0 +1,3 @@
+[submodule "/Users/realtime/Documents/test/git-sub-module-one/reference/git-sub-module-kenny"]
+	path = /Users/realtime/Documents/test/git-sub-module-one/reference/git-sub-module-kenny
+	url = https://github.com/KennyChenFight/git-sub-module.git
